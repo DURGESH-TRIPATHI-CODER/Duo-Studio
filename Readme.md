@@ -27,9 +27,10 @@ duo-studio/
 
 ## 📱 Social Media
 
-- 📷 [Instagram](https://www.instagram.com/durgesh_tripathi2580/)  
-- 🐦 [X / Twitter](https://x.com/DurgeshTri2580)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tripathi-durgesh/)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durgesh_tripathi2580)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tripathi_durgesh) 
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DURGESHTRI2580)
+
 
 ---
 
