@@ -15,6 +15,8 @@ A clean and responsive clone of the [Duo Studio](https://duo-studio.co/) website
 ## 📂 Folder Structure
 
 duo-studio/
+
+
 ├── index.html
 ├── style.css
 ├── script.js
